@@ -1,0 +1,6 @@
+report_id,patient_age,patient_gender,drug_name,reaction,reaction_severity,report_date,country
+1001,67,F,Aspirin,Nausea,Moderate,15-01-2023,USA
+1002,45,M,Ibuprofen,Headache,Mild,20-02-2023,USA
+1003,33,F,Metformin,Rash,Moderate,10-03-2023,USA
+1004,70,M,Aspirin,Dizziness,Severe,22-01-2023,USA
+1005,29,F,Ibuprofen,Nausea,Mild,18-04-2023,USA
